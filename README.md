@@ -90,8 +90,3 @@ While **dense neural embeddings** represent the future of NLP, classical sparse 
 git clone https://github.com/yourusername/nlp-pipeline-from-scratch.git
 cd nlp-pipeline-from-scratch
 ````
-
-
-## 🙏 Acknowledgments
-
-A massive thank you to **Dr. Hajra Waheed at FAST NUCES** for a rigorous, mathematically grounded, and highly practical curriculum that made this project possible.
