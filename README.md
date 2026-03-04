@@ -96,10 +96,5 @@ pip install -r requirements.txt
 ## 🙏 Acknowledgments
 
 A massive thank you to **Dr. Hajra Waheed at FAST NUCES** for a rigorous, mathematically grounded, and highly practical curriculum that made this project possible.
-
----
-
-**Built with ❤️ by an AI Engineer excited to dive deeper into advanced GenAI, Transformers, and LLM fine-tuning!**
-
 ```
 ```
